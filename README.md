@@ -90,5 +90,4 @@ The **Random Forest** outperformed others, indicating that ensemble-based approa
 2. Open the notebook:
    ```
    Traffic Situation Prediction.ipynb
-3. Run all cells in Jupyter Notebook or Google Colab
-   Ensure the dataset file is correctly placed in the project directory.
+3. Run all cells in Jupyter Notebook or Google Colab. Ensure the dataset file is correctly placed in the project directory.
